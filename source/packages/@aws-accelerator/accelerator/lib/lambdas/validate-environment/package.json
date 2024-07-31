@@ -40,9 +40,9 @@
   },
   "dependencies": {
     "@aws-accelerator/utils": "^0.0.0",
-    "@aws-sdk/client-cloudformation": "3.272.0",
+    "@aws-sdk/client-cloudformation": "3.529.0",
     "@aws-sdk/client-dynamodb": "3.272.0",
-    "@aws-sdk/client-ssm": "3.272.0",
+    "@aws-sdk/client-ssm": "3.529.0",
     "@aws-sdk/lib-dynamodb": "3.272.0",
     "@aws-sdk/smithy-client": "3.272.0",
     "aws-sdk": "2.1319.0"
